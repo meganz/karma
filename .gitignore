@@ -1,5 +1,4 @@
 node_modules
-static/karma.js
 .idea/*
 *.iml
 tmp/*
